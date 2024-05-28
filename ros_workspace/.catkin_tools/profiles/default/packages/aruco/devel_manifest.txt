@@ -1,0 +1,6 @@
+tiago_public_ws/src/aruco_ros/aruco
+/workspaces/ros_workspace/devel/.private/aruco/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/aruco/share/aruco/cmake/arucoConfig.cmake /workspaces/ros_workspace/devel/share/aruco/cmake/arucoConfig.cmake
+/workspaces/ros_workspace/devel/.private/aruco/share/aruco/cmake/arucoConfig-version.cmake /workspaces/ros_workspace/devel/share/aruco/cmake/arucoConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/aruco/lib/libaruco.so /workspaces/ros_workspace/devel/lib/libaruco.so
+/workspaces/ros_workspace/devel/.private/aruco/lib/pkgconfig/aruco.pc /workspaces/ros_workspace/devel/lib/pkgconfig/aruco.pc

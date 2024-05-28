@@ -1,0 +1,6 @@
+tiago_public_ws/src/pal_python
+/workspaces/ros_workspace/devel/.private/pal_python/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/pal_python/share/pal_python/cmake/pal_pythonConfig-version.cmake /workspaces/ros_workspace/devel/share/pal_python/cmake/pal_pythonConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/pal_python/share/pal_python/cmake/pal_pythonConfig.cmake /workspaces/ros_workspace/devel/share/pal_python/cmake/pal_pythonConfig.cmake
+/workspaces/ros_workspace/devel/.private/pal_python/lib/python3/dist-packages/pal_python/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/pal_python/__init__.py
+/workspaces/ros_workspace/devel/.private/pal_python/lib/pkgconfig/pal_python.pc /workspaces/ros_workspace/devel/lib/pkgconfig/pal_python.pc

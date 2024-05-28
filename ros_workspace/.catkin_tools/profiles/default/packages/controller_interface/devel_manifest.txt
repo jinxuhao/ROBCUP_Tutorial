@@ -1,0 +1,5 @@
+tiago_public_ws/src/ros_control/controller_interface
+/workspaces/ros_workspace/devel/.private/controller_interface/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/controller_interface/share/controller_interface/cmake/controller_interfaceConfig.cmake /workspaces/ros_workspace/devel/share/controller_interface/cmake/controller_interfaceConfig.cmake
+/workspaces/ros_workspace/devel/.private/controller_interface/share/controller_interface/cmake/controller_interfaceConfig-version.cmake /workspaces/ros_workspace/devel/share/controller_interface/cmake/controller_interfaceConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/controller_interface/lib/pkgconfig/controller_interface.pc /workspaces/ros_workspace/devel/lib/pkgconfig/controller_interface.pc

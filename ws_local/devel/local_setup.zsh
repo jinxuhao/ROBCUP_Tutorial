@@ -1,0 +1,1 @@
+/home/jin-ubuntu-t14/Robcup/ROBCUP_ros/ws_local/devel/.private/catkin_tools_prebuild/local_setup.zsh

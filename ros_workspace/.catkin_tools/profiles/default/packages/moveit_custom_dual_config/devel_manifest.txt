@@ -1,0 +1,5 @@
+tiago_public_ws/src/custom_end_effector/moveit_custom_dual_config
+/workspaces/ros_workspace/devel/.private/moveit_custom_dual_config/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/moveit_custom_dual_config/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig-version.cmake /workspaces/ros_workspace/devel/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/moveit_custom_dual_config/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig.cmake /workspaces/ros_workspace/devel/share/moveit_custom_dual_config/cmake/moveit_custom_dual_configConfig.cmake
+/workspaces/ros_workspace/devel/.private/moveit_custom_dual_config/lib/pkgconfig/moveit_custom_dual_config.pc /workspaces/ros_workspace/devel/lib/pkgconfig/moveit_custom_dual_config.pc

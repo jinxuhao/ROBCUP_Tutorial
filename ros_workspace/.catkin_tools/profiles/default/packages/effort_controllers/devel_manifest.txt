@@ -1,0 +1,6 @@
+tiago_public_ws/src/ros_controllers/effort_controllers
+/workspaces/ros_workspace/devel/.private/effort_controllers/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/effort_controllers/share/effort_controllers/cmake/effort_controllersConfig-version.cmake /workspaces/ros_workspace/devel/share/effort_controllers/cmake/effort_controllersConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/effort_controllers/share/effort_controllers/cmake/effort_controllersConfig.cmake /workspaces/ros_workspace/devel/share/effort_controllers/cmake/effort_controllersConfig.cmake
+/workspaces/ros_workspace/devel/.private/effort_controllers/lib/libeffort_controllers.so /workspaces/ros_workspace/devel/lib/libeffort_controllers.so
+/workspaces/ros_workspace/devel/.private/effort_controllers/lib/pkgconfig/effort_controllers.pc /workspaces/ros_workspace/devel/lib/pkgconfig/effort_controllers.pc

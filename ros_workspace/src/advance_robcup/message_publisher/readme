@@ -1,0 +1,21 @@
+roscore
+
+rosrun message_publisher publisher_node.py
+
+
+rostopic echo /my_topic
+
+
+
+docker exec -it vigilant_keller /bin/bash
+source /workspaces/ros_workspace/devel/setup.bash
+rosrun message_publisher publisher_node.py
+
+
+
+# 检查ROS环境
+# 确认ROS环境变量已经设置
+echo $ROS_MASTER_URI
+echo $ROS_IP
+
+docker run -it --network host --env ROS_MASTER_URI=http://192.168.0.1:11311 --env ROS_IP=192.168.0.2 ros-node-container

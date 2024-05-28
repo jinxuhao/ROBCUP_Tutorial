@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+  <rosparam command="load" file="$(find turtle_vis_hsrb)/configs/control_param.yaml"/>
+  <node name="hsrb_control_demo" pkg="turtle_vis_hsrb" type="turtle_control_hsrb_node" args= "1" output="screen" />
+ 
+</launch>

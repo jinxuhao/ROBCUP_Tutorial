@@ -1,0 +1,8 @@
+tiago_public_ws/src/ros_controllers/joint_trajectory_controller
+/workspaces/ros_workspace/devel/.private/joint_trajectory_controller/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/joint_trajectory_controller/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig.cmake /workspaces/ros_workspace/devel/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig.cmake
+/workspaces/ros_workspace/devel/.private/joint_trajectory_controller/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig-version.cmake /workspaces/ros_workspace/devel/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/joint_trajectory_controller/lib/libjoint_trajectory_controller.so /workspaces/ros_workspace/devel/lib/libjoint_trajectory_controller.so
+/workspaces/ros_workspace/devel/.private/joint_trajectory_controller/lib/pkgconfig/joint_trajectory_controller.pc /workspaces/ros_workspace/devel/lib/pkgconfig/joint_trajectory_controller.pc
+/workspaces/ros_workspace/devel/.private/joint_trajectory_controller/lib/joint_trajectory_controller/rrbot /workspaces/ros_workspace/devel/lib/joint_trajectory_controller/rrbot
+/workspaces/ros_workspace/devel/.private/joint_trajectory_controller/lib/joint_trajectory_controller/rrbot_wrapping /workspaces/ros_workspace/devel/lib/joint_trajectory_controller/rrbot_wrapping

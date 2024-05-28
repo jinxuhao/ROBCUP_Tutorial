@@ -1,0 +1,23 @@
+<library path="lib/libcontrollers_tutorials">
+
+  <class name="controllers_tutorials/CombinedResourceController" type="controllers_tutorials::CombinedResourceController" base_class_type="controller_interface::ControllerBase">
+    <description>
+        The CombinedResourceController is a simple controller that has multiple hardware interfaces.
+    </description>
+  </class> 
+   
+   <class name="controllers_tutorials/NewTorsoController" type="controllers_tutorials::NewTorsoController" base_class_type="controller_interface::ControllerBase">
+    <description>
+        The solution for the torso controller exercise of the tutorial.
+    </description>
+  </class> 
+
+   <class name="controllers_tutorials/NewHeadController" type="controllers_tutorials::NewHeadController" base_class_type="controller_interface::ControllerBase">
+    <description>
+        The solution for the head controller exercise of the tutorial.
+    </description>
+  </class> 
+
+
+</library>
+

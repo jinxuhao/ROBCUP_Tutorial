@@ -1,0 +1,16 @@
+tiago_public_ws/src/aruco_ros/aruco_ros
+/workspaces/ros_workspace/devel/.private/aruco_ros/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h /workspaces/ros_workspace/devel/include/aruco_ros/ArucoThresholdConfig.h
+/workspaces/ros_workspace/devel/.private/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig-version.cmake /workspaces/ros_workspace/devel/share/aruco_ros/cmake/aruco_rosConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig.cmake /workspaces/ros_workspace/devel/share/aruco_ros/cmake/aruco_rosConfig.cmake
+/workspaces/ros_workspace/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig.dox /workspaces/ros_workspace/devel/share/aruco_ros/docs/ArucoThresholdConfig.dox
+/workspaces/ros_workspace/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig-usage.dox /workspaces/ros_workspace/devel/share/aruco_ros/docs/ArucoThresholdConfig-usage.dox
+/workspaces/ros_workspace/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig.wikidoc /workspaces/ros_workspace/devel/share/aruco_ros/docs/ArucoThresholdConfig.wikidoc
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/libaruco_ros_utils.so /workspaces/ros_workspace/devel/lib/libaruco_ros_utils.so
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/python3/dist-packages/aruco_ros/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/aruco_ros/__init__.py
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/python3/dist-packages/aruco_ros/cfg/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/aruco_ros/cfg/__init__.py
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/python3/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/pkgconfig/aruco_ros.pc /workspaces/ros_workspace/devel/lib/pkgconfig/aruco_ros.pc
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/aruco_ros/double /workspaces/ros_workspace/devel/lib/aruco_ros/double
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/aruco_ros/marker_publisher /workspaces/ros_workspace/devel/lib/aruco_ros/marker_publisher
+/workspaces/ros_workspace/devel/.private/aruco_ros/lib/aruco_ros/single /workspaces/ros_workspace/devel/lib/aruco_ros/single

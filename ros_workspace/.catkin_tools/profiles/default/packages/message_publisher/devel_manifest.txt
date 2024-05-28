@@ -1,0 +1,5 @@
+advance_robcup/message_publisher
+/workspaces/ros_workspace/devel/.private/message_publisher/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/message_publisher/share/message_publisher/cmake/message_publisherConfig-version.cmake /workspaces/ros_workspace/devel/share/message_publisher/cmake/message_publisherConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/message_publisher/share/message_publisher/cmake/message_publisherConfig.cmake /workspaces/ros_workspace/devel/share/message_publisher/cmake/message_publisherConfig.cmake
+/workspaces/ros_workspace/devel/.private/message_publisher/lib/pkgconfig/message_publisher.pc /workspaces/ros_workspace/devel/lib/pkgconfig/message_publisher.pc

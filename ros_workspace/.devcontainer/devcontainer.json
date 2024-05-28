@@ -1,0 +1,29 @@
+{
+    "name": "Tiago Devcontainer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
+            "version": "latest"
+        }
+    },
+    "extensions": [
+        "ms-azuretools.vscode-docker",
+        "ms-vscode.cpptools",
+        "ms-iot.vscode-ros"
+    ],
+    "mounts": [
+        "source=/tmp/.X11-unix,target=/tmp/.X11-unix,type=bind",
+        "source=${localEnv:HOME}/.Xauthority,target=/root/.Xauthority,type=bind",
+        "source=/dev/dri/card0,target=/dev/dri/card0,type=bind"
+    ],
+    "remoteUser": "root",
+    "runArgs": [
+        "--network=host",
+        "--env", "DISPLAY",
+        "--privileged"
+    ],
+    // "postCreateCommand": "apt-get update && apt-get install -y ros-noetic-tiago-*"
+    // "postCreateCommand": "mkdir -p /workspaces/ros_workspace/src && mv /tiago_public_ws /workspaces/ros_workspace/src/"
+}

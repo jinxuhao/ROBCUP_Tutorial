@@ -1,0 +1,5 @@
+tiago_public_ws/src/pmb2_navigation/pmb2_rgbd_sensors
+/workspaces/ros_workspace/devel/.private/pmb2_rgbd_sensors/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/pmb2_rgbd_sensors/share/pmb2_rgbd_sensors/cmake/pmb2_rgbd_sensorsConfig.cmake /workspaces/ros_workspace/devel/share/pmb2_rgbd_sensors/cmake/pmb2_rgbd_sensorsConfig.cmake
+/workspaces/ros_workspace/devel/.private/pmb2_rgbd_sensors/share/pmb2_rgbd_sensors/cmake/pmb2_rgbd_sensorsConfig-version.cmake /workspaces/ros_workspace/devel/share/pmb2_rgbd_sensors/cmake/pmb2_rgbd_sensorsConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/pmb2_rgbd_sensors/lib/pkgconfig/pmb2_rgbd_sensors.pc /workspaces/ros_workspace/devel/lib/pkgconfig/pmb2_rgbd_sensors.pc

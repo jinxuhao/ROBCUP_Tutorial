@@ -1,0 +1,8 @@
+tiago_public_ws/src/ros_control/controller_manager_tests
+/workspaces/ros_workspace/devel/.private/controller_manager_tests/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/controller_manager_tests/share/controller_manager_tests/cmake/controller_manager_testsConfig.cmake /workspaces/ros_workspace/devel/share/controller_manager_tests/cmake/controller_manager_testsConfig.cmake
+/workspaces/ros_workspace/devel/.private/controller_manager_tests/share/controller_manager_tests/cmake/controller_manager_testsConfig-version.cmake /workspaces/ros_workspace/devel/share/controller_manager_tests/cmake/controller_manager_testsConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/controller_manager_tests/lib/libcontroller_manager_tests.so /workspaces/ros_workspace/devel/lib/libcontroller_manager_tests.so
+/workspaces/ros_workspace/devel/.private/controller_manager_tests/lib/python3/dist-packages/controller_manager_tests/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/controller_manager_tests/__init__.py
+/workspaces/ros_workspace/devel/.private/controller_manager_tests/lib/pkgconfig/controller_manager_tests.pc /workspaces/ros_workspace/devel/lib/pkgconfig/controller_manager_tests.pc
+/workspaces/ros_workspace/devel/.private/controller_manager_tests/lib/controller_manager_tests/dummy_app /workspaces/ros_workspace/devel/lib/controller_manager_tests/dummy_app

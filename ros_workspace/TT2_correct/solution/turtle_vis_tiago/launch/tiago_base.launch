@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+  <rosparam command="load" file="$(find turtle_vis_tiago)/configs/control_param.yaml"/>
+  <node name="tiago_control_demo" pkg="turtle_vis_tiago" type="turtle_control_tiago_node" args= "1" output="screen" />
+ 
+</launch>

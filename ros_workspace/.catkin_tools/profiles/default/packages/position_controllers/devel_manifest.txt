@@ -1,0 +1,6 @@
+tiago_public_ws/src/ros_controllers/position_controllers
+/workspaces/ros_workspace/devel/.private/position_controllers/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/position_controllers/share/position_controllers/cmake/position_controllersConfig.cmake /workspaces/ros_workspace/devel/share/position_controllers/cmake/position_controllersConfig.cmake
+/workspaces/ros_workspace/devel/.private/position_controllers/share/position_controllers/cmake/position_controllersConfig-version.cmake /workspaces/ros_workspace/devel/share/position_controllers/cmake/position_controllersConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/position_controllers/lib/libposition_controllers.so /workspaces/ros_workspace/devel/lib/libposition_controllers.so
+/workspaces/ros_workspace/devel/.private/position_controllers/lib/pkgconfig/position_controllers.pc /workspaces/ros_workspace/devel/lib/pkgconfig/position_controllers.pc

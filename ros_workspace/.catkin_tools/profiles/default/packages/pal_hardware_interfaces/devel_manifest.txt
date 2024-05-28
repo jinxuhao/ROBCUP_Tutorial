@@ -1,0 +1,5 @@
+tiago_public_ws/src/pal_hardware_interfaces
+/workspaces/ros_workspace/devel/.private/pal_hardware_interfaces/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/pal_hardware_interfaces/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig.cmake /workspaces/ros_workspace/devel/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig.cmake
+/workspaces/ros_workspace/devel/.private/pal_hardware_interfaces/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig-version.cmake /workspaces/ros_workspace/devel/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/pal_hardware_interfaces/lib/pkgconfig/pal_hardware_interfaces.pc /workspaces/ros_workspace/devel/lib/pkgconfig/pal_hardware_interfaces.pc

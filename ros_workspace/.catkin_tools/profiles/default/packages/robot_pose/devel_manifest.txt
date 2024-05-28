@@ -1,0 +1,8 @@
+tiago_public_ws/src/robot_pose
+/workspaces/ros_workspace/devel/.private/robot_pose/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/robot_pose/share/robot_pose/cmake/robot_poseConfig-version.cmake /workspaces/ros_workspace/devel/share/robot_pose/cmake/robot_poseConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/robot_pose/share/robot_pose/cmake/robot_poseConfig.cmake /workspaces/ros_workspace/devel/share/robot_pose/cmake/robot_poseConfig.cmake
+/workspaces/ros_workspace/devel/.private/robot_pose/lib/robot_pose/fake_odom_publisher /workspaces/ros_workspace/devel/lib/robot_pose/fake_odom_publisher
+/workspaces/ros_workspace/devel/.private/robot_pose/lib/robot_pose/distance_publisher_node /workspaces/ros_workspace/devel/lib/robot_pose/distance_publisher_node
+/workspaces/ros_workspace/devel/.private/robot_pose/lib/robot_pose/robot_pose_node /workspaces/ros_workspace/devel/lib/robot_pose/robot_pose_node
+/workspaces/ros_workspace/devel/.private/robot_pose/lib/pkgconfig/robot_pose.pc /workspaces/ros_workspace/devel/lib/pkgconfig/robot_pose.pc

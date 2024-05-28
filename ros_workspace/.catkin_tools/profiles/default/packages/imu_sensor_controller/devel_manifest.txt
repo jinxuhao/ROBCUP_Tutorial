@@ -1,0 +1,6 @@
+tiago_public_ws/src/ros_controllers/imu_sensor_controller
+/workspaces/ros_workspace/devel/.private/imu_sensor_controller/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake /workspaces/ros_workspace/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake /workspaces/ros_workspace/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake
+/workspaces/ros_workspace/devel/.private/imu_sensor_controller/lib/libimu_sensor_controller.so /workspaces/ros_workspace/devel/lib/libimu_sensor_controller.so
+/workspaces/ros_workspace/devel/.private/imu_sensor_controller/lib/pkgconfig/imu_sensor_controller.pc /workspaces/ros_workspace/devel/lib/pkgconfig/imu_sensor_controller.pc

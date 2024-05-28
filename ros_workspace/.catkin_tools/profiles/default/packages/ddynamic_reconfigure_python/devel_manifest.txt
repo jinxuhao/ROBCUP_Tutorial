@@ -1,0 +1,6 @@
+tiago_public_ws/src/ddynamic_reconfigure_python
+/workspaces/ros_workspace/devel/.private/ddynamic_reconfigure_python/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/ddynamic_reconfigure_python/share/ddynamic_reconfigure_python/cmake/ddynamic_reconfigure_pythonConfig-version.cmake /workspaces/ros_workspace/devel/share/ddynamic_reconfigure_python/cmake/ddynamic_reconfigure_pythonConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/ddynamic_reconfigure_python/share/ddynamic_reconfigure_python/cmake/ddynamic_reconfigure_pythonConfig.cmake /workspaces/ros_workspace/devel/share/ddynamic_reconfigure_python/cmake/ddynamic_reconfigure_pythonConfig.cmake
+/workspaces/ros_workspace/devel/.private/ddynamic_reconfigure_python/lib/python3/dist-packages/ddynamic_reconfigure_python/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/ddynamic_reconfigure_python/__init__.py
+/workspaces/ros_workspace/devel/.private/ddynamic_reconfigure_python/lib/pkgconfig/ddynamic_reconfigure_python.pc /workspaces/ros_workspace/devel/lib/pkgconfig/ddynamic_reconfigure_python.pc

@@ -1,0 +1,14 @@
+
+*.log
+
+
+*.tmp
+
+
+ros_workspace/src/tiago_public_ws
+
+
+ros_workspace/build 
+ros_workspace/devel
+ros_workspace/logs 
+

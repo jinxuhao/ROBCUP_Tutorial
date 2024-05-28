@@ -1,0 +1,6 @@
+tiago_public_ws/src/ros_controllers/force_torque_sensor_controller
+/workspaces/ros_workspace/devel/.private/force_torque_sensor_controller/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/force_torque_sensor_controller/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig.cmake /workspaces/ros_workspace/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig.cmake
+/workspaces/ros_workspace/devel/.private/force_torque_sensor_controller/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig-version.cmake /workspaces/ros_workspace/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/force_torque_sensor_controller/lib/libforce_torque_sensor_controller.so /workspaces/ros_workspace/devel/lib/libforce_torque_sensor_controller.so
+/workspaces/ros_workspace/devel/.private/force_torque_sensor_controller/lib/pkgconfig/force_torque_sensor_controller.pc /workspaces/ros_workspace/devel/lib/pkgconfig/force_torque_sensor_controller.pc

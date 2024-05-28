@@ -1,0 +1,13 @@
+tiago_public_ws/src/pal_gazebo_plugins
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig.cmake /workspaces/ros_workspace/devel/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig.cmake
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig-version.cmake /workspaces/ros_workspace/devel/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libgazebo_pal_hand.so /workspaces/ros_workspace/devel/lib/libgazebo_pal_hand.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libgazebo_ros_forcetorque.so /workspaces/ros_workspace/devel/lib/libgazebo_ros_forcetorque.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libgazebo_attachment.so /workspaces/ros_workspace/devel/lib/libgazebo_attachment.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libgazebo_harness.so /workspaces/ros_workspace/devel/lib/libgazebo_harness.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libgazebo_world_odometry.so /workspaces/ros_workspace/devel/lib/libgazebo_world_odometry.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libgazebo_underactuated_finger.so /workspaces/ros_workspace/devel/lib/libgazebo_underactuated_finger.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libgazebo_wifi_ap.so /workspaces/ros_workspace/devel/lib/libgazebo_wifi_ap.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/libpal_gazebo_collisions.so /workspaces/ros_workspace/devel/lib/libpal_gazebo_collisions.so
+/workspaces/ros_workspace/devel/.private/pal_gazebo_plugins/lib/pkgconfig/pal_gazebo_plugins.pc /workspaces/ros_workspace/devel/lib/pkgconfig/pal_gazebo_plugins.pc

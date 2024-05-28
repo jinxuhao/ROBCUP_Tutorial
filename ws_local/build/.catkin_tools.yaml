@@ -1,0 +1,6 @@
+devel_space: /home/jin-ubuntu-t14/Robcup/ROBCUP_ros/ws_local/devel
+install: false
+install_space: /home/jin-ubuntu-t14/Robcup/ROBCUP_ros/ws_local/install
+profile: default
+source_space: /home/jin-ubuntu-t14/Robcup/ROBCUP_ros/ws_local/src
+workspace: /home/jin-ubuntu-t14/Robcup/ROBCUP_ros/ws_local

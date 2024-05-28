@@ -1,0 +1,26 @@
+tiago_public_ws/src/aruco_ros/aruco_msgs
+/workspaces/ros_workspace/devel/.private/aruco_msgs/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/aruco_msgs/include/aruco_msgs/MarkerArray.h /workspaces/ros_workspace/devel/include/aruco_msgs/MarkerArray.h
+/workspaces/ros_workspace/devel/.private/aruco_msgs/include/aruco_msgs/Marker.h /workspaces/ros_workspace/devel/include/aruco_msgs/Marker.h
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/manifest.l /workspaces/ros_workspace/devel/share/roseus/ros/aruco_msgs/manifest.l
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/msg/Marker.l /workspaces/ros_workspace/devel/share/roseus/ros/aruco_msgs/msg/Marker.l
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/msg/MarkerArray.l /workspaces/ros_workspace/devel/share/roseus/ros/aruco_msgs/msg/MarkerArray.l
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs-msg-paths.cmake /workspaces/ros_workspace/devel/share/aruco_msgs/cmake/aruco_msgs-msg-paths.cmake
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgs-msg-extras.cmake /workspaces/ros_workspace/devel/share/aruco_msgs/cmake/aruco_msgs-msg-extras.cmake
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake /workspaces/ros_workspace/devel/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/aruco_msgs/cmake/aruco_msgsConfig.cmake /workspaces/ros_workspace/devel/share/aruco_msgs/cmake/aruco_msgsConfig.cmake
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package.lisp /workspaces/ros_workspace/devel/share/common-lisp/ros/aruco_msgs/msg/_package.lisp
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package_MarkerArray.lisp /workspaces/ros_workspace/devel/share/common-lisp/ros/aruco_msgs/msg/_package_MarkerArray.lisp
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/aruco_msgs-msg.asd /workspaces/ros_workspace/devel/share/common-lisp/ros/aruco_msgs/msg/aruco_msgs-msg.asd
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/_package_Marker.lisp /workspaces/ros_workspace/devel/share/common-lisp/ros/aruco_msgs/msg/_package_Marker.lisp
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/Marker.lisp /workspaces/ros_workspace/devel/share/common-lisp/ros/aruco_msgs/msg/Marker.lisp
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/common-lisp/ros/aruco_msgs/msg/MarkerArray.lisp /workspaces/ros_workspace/devel/share/common-lisp/ros/aruco_msgs/msg/MarkerArray.lisp
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/_index.js /workspaces/ros_workspace/devel/share/gennodejs/ros/aruco_msgs/_index.js
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/msg/MarkerArray.js /workspaces/ros_workspace/devel/share/gennodejs/ros/aruco_msgs/msg/MarkerArray.js
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/msg/Marker.js /workspaces/ros_workspace/devel/share/gennodejs/ros/aruco_msgs/msg/Marker.js
+/workspaces/ros_workspace/devel/.private/aruco_msgs/share/gennodejs/ros/aruco_msgs/msg/_index.js /workspaces/ros_workspace/devel/share/gennodejs/ros/aruco_msgs/msg/_index.js
+/workspaces/ros_workspace/devel/.private/aruco_msgs/lib/python3/dist-packages/aruco_msgs/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/aruco_msgs/__init__.py
+/workspaces/ros_workspace/devel/.private/aruco_msgs/lib/python3/dist-packages/aruco_msgs/msg/_Marker.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/aruco_msgs/msg/_Marker.py
+/workspaces/ros_workspace/devel/.private/aruco_msgs/lib/python3/dist-packages/aruco_msgs/msg/_MarkerArray.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/aruco_msgs/msg/_MarkerArray.py
+/workspaces/ros_workspace/devel/.private/aruco_msgs/lib/python3/dist-packages/aruco_msgs/msg/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/aruco_msgs/msg/__init__.py
+/workspaces/ros_workspace/devel/.private/aruco_msgs/lib/pkgconfig/aruco_msgs.pc /workspaces/ros_workspace/devel/lib/pkgconfig/aruco_msgs.pc

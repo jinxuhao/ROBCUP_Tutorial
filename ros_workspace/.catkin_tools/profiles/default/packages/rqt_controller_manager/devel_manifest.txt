@@ -1,0 +1,6 @@
+tiago_public_ws/src/ros_control/rqt_controller_manager
+/workspaces/ros_workspace/devel/.private/rqt_controller_manager/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/rqt_controller_manager/share/rqt_controller_manager/cmake/rqt_controller_managerConfig-version.cmake /workspaces/ros_workspace/devel/share/rqt_controller_manager/cmake/rqt_controller_managerConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/rqt_controller_manager/share/rqt_controller_manager/cmake/rqt_controller_managerConfig.cmake /workspaces/ros_workspace/devel/share/rqt_controller_manager/cmake/rqt_controller_managerConfig.cmake
+/workspaces/ros_workspace/devel/.private/rqt_controller_manager/lib/python3/dist-packages/rqt_controller_manager/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/rqt_controller_manager/__init__.py
+/workspaces/ros_workspace/devel/.private/rqt_controller_manager/lib/pkgconfig/rqt_controller_manager.pc /workspaces/ros_workspace/devel/lib/pkgconfig/rqt_controller_manager.pc

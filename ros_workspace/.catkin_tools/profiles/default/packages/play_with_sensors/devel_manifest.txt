@@ -1,0 +1,5 @@
+tiago_public_ws/src/tiago_tutorials/play_with_sensors
+/workspaces/ros_workspace/devel/.private/play_with_sensors/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/play_with_sensors/share/play_with_sensors/cmake/play_with_sensorsConfig.cmake /workspaces/ros_workspace/devel/share/play_with_sensors/cmake/play_with_sensorsConfig.cmake
+/workspaces/ros_workspace/devel/.private/play_with_sensors/share/play_with_sensors/cmake/play_with_sensorsConfig-version.cmake /workspaces/ros_workspace/devel/share/play_with_sensors/cmake/play_with_sensorsConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/play_with_sensors/lib/pkgconfig/play_with_sensors.pc /workspaces/ros_workspace/devel/lib/pkgconfig/play_with_sensors.pc

@@ -1,0 +1,5 @@
+tiago_public_ws/src/custom_end_effector/custom_dual_ee_description
+/workspaces/ros_workspace/devel/.private/custom_dual_ee_description/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/custom_dual_ee_description/share/custom_dual_ee_description/cmake/custom_dual_ee_descriptionConfig-version.cmake /workspaces/ros_workspace/devel/share/custom_dual_ee_description/cmake/custom_dual_ee_descriptionConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/custom_dual_ee_description/share/custom_dual_ee_description/cmake/custom_dual_ee_descriptionConfig.cmake /workspaces/ros_workspace/devel/share/custom_dual_ee_description/cmake/custom_dual_ee_descriptionConfig.cmake
+/workspaces/ros_workspace/devel/.private/custom_dual_ee_description/lib/pkgconfig/custom_dual_ee_description.pc /workspaces/ros_workspace/devel/lib/pkgconfig/custom_dual_ee_description.pc

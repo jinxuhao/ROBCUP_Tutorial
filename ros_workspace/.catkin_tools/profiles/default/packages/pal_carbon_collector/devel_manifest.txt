@@ -1,0 +1,6 @@
+tiago_public_ws/src/pal_statistics/pal_carbon_collector
+/workspaces/ros_workspace/devel/.private/pal_carbon_collector/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/pal_carbon_collector/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig.cmake /workspaces/ros_workspace/devel/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig.cmake
+/workspaces/ros_workspace/devel/.private/pal_carbon_collector/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig-version.cmake /workspaces/ros_workspace/devel/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/pal_carbon_collector/lib/python3/dist-packages/pal_carbon_collector/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/pal_carbon_collector/__init__.py
+/workspaces/ros_workspace/devel/.private/pal_carbon_collector/lib/pkgconfig/pal_carbon_collector.pc /workspaces/ros_workspace/devel/lib/pkgconfig/pal_carbon_collector.pc

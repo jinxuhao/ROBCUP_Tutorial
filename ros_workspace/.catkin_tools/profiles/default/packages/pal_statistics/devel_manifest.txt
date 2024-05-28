@@ -1,0 +1,8 @@
+tiago_public_ws/src/pal_statistics/pal_statistics
+/workspaces/ros_workspace/devel/.private/pal_statistics/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/pal_statistics/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake /workspaces/ros_workspace/devel/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/pal_statistics/share/pal_statistics/cmake/pal_statisticsConfig.cmake /workspaces/ros_workspace/devel/share/pal_statistics/cmake/pal_statisticsConfig.cmake
+/workspaces/ros_workspace/devel/.private/pal_statistics/lib/libextract_rosbag_signals.so /workspaces/ros_workspace/devel/lib/libextract_rosbag_signals.so
+/workspaces/ros_workspace/devel/.private/pal_statistics/lib/libpal_statistics.so /workspaces/ros_workspace/devel/lib/libpal_statistics.so
+/workspaces/ros_workspace/devel/.private/pal_statistics/lib/python3/dist-packages/pal_statistics/__init__.py /workspaces/ros_workspace/devel/lib/python3/dist-packages/pal_statistics/__init__.py
+/workspaces/ros_workspace/devel/.private/pal_statistics/lib/pkgconfig/pal_statistics.pc /workspaces/ros_workspace/devel/lib/pkgconfig/pal_statistics.pc

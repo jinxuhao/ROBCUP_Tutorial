@@ -1,0 +1,5 @@
+tiago_public_ws/src/ros_control/hardware_interface
+/workspaces/ros_workspace/devel/.private/hardware_interface/cmake.lock /workspaces/ros_workspace/devel/./cmake.lock
+/workspaces/ros_workspace/devel/.private/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig-version.cmake /workspaces/ros_workspace/devel/share/hardware_interface/cmake/hardware_interfaceConfig-version.cmake
+/workspaces/ros_workspace/devel/.private/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig.cmake /workspaces/ros_workspace/devel/share/hardware_interface/cmake/hardware_interfaceConfig.cmake
+/workspaces/ros_workspace/devel/.private/hardware_interface/lib/pkgconfig/hardware_interface.pc /workspaces/ros_workspace/devel/lib/pkgconfig/hardware_interface.pc
